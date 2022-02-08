@@ -27,34 +27,13 @@ Coleta executada através do link: ''https://pt.wikipedia.org/wiki/Lista_de_pa%C
 
 * iv. **Comentários e 'insights' finais**;
 
+Em muitas aplicações, os dados podem estar espalhados em vários arquivos ou bancos de dados, ou podem estar organizados em um formato que não seja fácil de análisar.
 
-
-
-
-
-
-
-
-
-
-
-
-roadmap : @Odemir_j
+Dar carga nos dados, armazenar e limpar, de maneira geral modelar os dados , leva um período significativo de tempo. Sabe-se que essas tarefas em geral ocupam tempo. Às vezes, o modo como os dados são armazenados em arquivos ou banco de dados não constituem o formato correto para uma tarefa particular. Além disso é notável que a junção do pandas com recursos embutidos na linguagem Python, oferecem um conjunto de ferramentas de alto nível, rápido e fléxivel, para permitir a manipulação dos dados, deixando-os no formato correto para eventuais análises.
 
 Conjunto de dados: 'https://pt.wikipedia.org/wiki/Lista_de_pa%C3%ADses_por_PIB_nominal'
 
 Status do projeto: Concluído.
 
 Linguagem Utilizada: Python
-
-Informações do atributo:
-
-Listagem de atributos:
-
-id_cliente : 1 a 5000.
-propriedade(ha): hectares entre 7.20 e 25899.60.
-perfil de produtor: Grãos MANPITOBA, Grãos SUL, Grãos Cerrado, Hortifruti, Algodão e Café.
-insumos Fertilizantes, Defensivos, Sementes.
-valor_venda: De 0k à 17213726.40k
-
 
